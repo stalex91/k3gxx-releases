@@ -22,5 +22,4 @@ hardware support, ported to Pie and fixed for daily use:
 - Power profiles (power saving / balanced / performance), zram
 - SELinux enforcing
 - Built-in Updater (OTA) and GApps kept across updates
-- Current English spelling of Kyiv in time zone names; some other
-  geographical names updated in time zones and the world clock
+- Some time locations actualized, e.g. Kyiv
