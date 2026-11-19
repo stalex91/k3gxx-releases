@@ -3,6 +3,7 @@
 Unofficial LineageOS 16.0 (Android 9) builds for the Samsung Galaxy S5
 SM-G900H (Exynos 5422).
 
+- XDA thread (support and bug reports): [LineageOS 16.0 for Samsung Galaxy S5 3G [k3gxx]](https://xdaforums.com/t/rom-unofficial-9-0-lineageos-16-0-for-samsung-galaxy-s5-3g-k3gxx.4809408/)
 - Downloads: see [Releases](https://github.com/stalex91/k3gxx-releases/releases).
 - `lineage-16.0.json` is read by the built-in Updater
   (Settings → System → Updater) to offer new builds.
